@@ -1,0 +1,25 @@
+/* Your custom styles */
+.hover-main:hover{
+	background-color: rgba(255, 255, 255, 0.14);
+	background-size: 100% 2px;
+}
+
+.hover-main{
+	text-decoration: none;
+	background-image: linear-gradient(rgba(255, 255, 255, 0.84), rgba(255, 255, 255, 0.84));
+	background-position: 0% 100%;
+	background-repeat: no-repeat;
+	background-size: 0% 2px;
+	transition: background-size .1s;
+}
+
+
+.file-field.medium .file-path-wrapper {
+	height: 3rem; }
+.file-field.medium .file-path-wrapper .file-path {
+	height: 2.8rem; }
+
+.file-field.big-2 .file-path-wrapper {
+	height: 3.7rem; }
+.file-field.big-2 .file-path-wrapper .file-path {
+	height: 3.5rem; }
